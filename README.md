@@ -1,2 +1,2 @@
 # QSL_Publication_Template
-The repository contains the temlpate for the research projects
+The repository contains the template for the research projects
