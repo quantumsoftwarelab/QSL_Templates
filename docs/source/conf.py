@@ -9,10 +9,10 @@ import sys
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'QSL Template'
+project = 'VQEs'
 copyright = '2025, Virag Umathes'
 author = 'Virag Umathe'
-release = '1.7.3'
+release = '1.0.3'
 
 sys.path.insert(0, os.path.abspath('../../src'))
 
