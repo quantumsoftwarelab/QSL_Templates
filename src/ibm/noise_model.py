@@ -1,8 +1,9 @@
 """
 
-Dummy IBM Qiskit Runtime job example to show how to create a noise model from a real device and run it.
-
-It pings the device to get the noise modle but no run time credit is used
+#  @Date: 22-12-2025
+#  @LastUpdate: 08-01-2026
+#  @brief: Dummy IBM Qiskit Runtime job example to show how to 
+#          create a noise model from a real device and run it.
 
 """
 
@@ -28,7 +29,7 @@ IBM_PRN = os.getenv("IBM_PRN_INSTANCE")
 # INSTANCE = "<YOUR_IBM_INSTANCE_NAME_OR_CRN>"
 
 QiskitRuntimeService.save_account(
-    token=IBM_API_KEY, # Use the 44-character API_KEY you created and saved from the IBM Quantum Platform Home dashboard
+    token=IBM_API_KEY, # Use the API_KEY you created and saved from the IBM Quantum Platform Home dashboard
     instance=IBM_PRN, # Optional
     overwrite=True 
 )
