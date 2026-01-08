@@ -1,6 +1,5 @@
 """
 # 
-#  @Author: Your Name
 #  @Date: 08-01-2026
 #  @LastUpdate: 08-01-2026
 #  @brief: Example module for the infleqtion squale QPU 
