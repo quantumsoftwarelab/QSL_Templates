@@ -23,6 +23,7 @@ IBM_API_KEY = os.getenv("IBM_API_TOKEN")
 IBM_PRN = os.getenv("IBM_PRN_INSTANCE")
 
 
+
 # 1. Initialize service
 service = QiskitRuntimeService(
     token=IBM_API_KEY,
